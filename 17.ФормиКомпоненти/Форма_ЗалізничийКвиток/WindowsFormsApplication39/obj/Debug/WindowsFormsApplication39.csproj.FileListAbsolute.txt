@@ -1,0 +1,8 @@
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\bin\Debug\WindowsFormsApplication39.exe.config
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\bin\Debug\WindowsFormsApplication39.exe
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\bin\Debug\WindowsFormsApplication39.pdb
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\obj\Debug\WindowsFormsApplication39.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\obj\Debug\WindowsFormsApplication39.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\obj\Debug\WindowsFormsApplication39.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\obj\Debug\WindowsFormsApplication39.exe
+c:\users\home\documents\visual studio 2015\Projects\WindowsFormsApplication39\WindowsFormsApplication39\obj\Debug\WindowsFormsApplication39.pdb
